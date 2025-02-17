@@ -1,0 +1,27 @@
+Explorando el estilo y la semántica en HTML
+Este es un texto de ejemplo para practicar con las etiquetas de formato, 
+los comentarios y las metaetiquetas. Vamos a resaltar algunas palabras importantes 
+y a añadir información adicional sobre la página.
+
+Negrita
+La etiqueta b  Esta palabra está en nse utiliza para poner texto en negrita. Por ejemplo:egrita.
+
+La etiqueta strong también se utiliza para poner texto en negrita, pero tiene un 
+significado semántico más fuerte. Se utiliza para resaltar palabras clave o frases 
+importantes. Por ejemplo: Esta frase es muy importante.
+
+¿Cuál es la diferencia entre b y strong? Ambas etiquetas hacen que el texto se vea en 
+negrita, pero strong indica que el texto tiene una mayor importancia semántica. Los motores 
+de búsqueda y los lectores de pantalla pueden utilizar esta información para entender mejor el contenido de la página.
+
+Cursiva
+La etiqueta i se utiliza para poner texto en cursiva. Por ejemplo: Esta palabra está en cursiva.
+
+La etiqueta em también se utiliza para poner texto en cursiva, pero tiene un significado semántico de énfasis. Se utiliza para resaltar palabras o frases que se quieren destacar. Por ejemplo: Esta frase es importante.
+
+¿Cuál es la diferencia entre i e em? Ambas etiquetas hacen que el texto se vea en cursiva, pero em 
+indica que el texto tiene un mayor énfasis semántico. Los lectores de pantalla pueden utilizar esta
+ información para enfatizar la lectura de estas palabras.
+
+Subrayado
+La etiqueta u se utiliza para subrayar texto. Por ejemplo: Esta palabra está subrayada.
